@@ -1,0 +1,39 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "ShopFoodContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "CRUD_Core6_Api",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Cart]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "NAUL-PC.ShopFood",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
